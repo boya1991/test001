@@ -11,6 +11,7 @@ class PageLogin(Base):
     # 输入用户名
     def page_input_uername(self,text):
         self.base_input(loc_username,text)
+    # asdads
 
 
     # 输入密码
