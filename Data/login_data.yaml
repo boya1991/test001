@@ -1,0 +1,6 @@
+test_login01:
+  username: "13344441111"
+  pwd: "asdasd"
+test_login02:
+  username: ""
+  pwd: "asdasd"
